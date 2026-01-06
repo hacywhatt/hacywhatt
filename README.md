@@ -24,14 +24,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=18&color=00ff00&center=true&vCenter=true&width=600&lines=[BOOT]+Initializing+system...;[OK]+Brain+loaded+successfully;[OK]+IDE+warmed+up;[INFO]+Coffee+injection...+in+progress;[OK]+Caffeine+level:+STABLE;[ALERT]+Low+coffee+detected+→+brew+immediately!" />
 </p>
 
-
----
-
-### 📊 GitHub Intel
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hacywhatt&show_icons=true&theme=chartreuse-dark&hide_border=true" height="150"/>
-</p>
-
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="500" />
